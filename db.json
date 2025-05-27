@@ -1,0 +1,346 @@
+{
+  "posts": [
+    {
+      "title": "Pariatur Ducimus d",
+      "body": "Rerum cumque molesti",
+      "userId": 1,
+      "id": "244f"
+    },
+    {
+      "id": "3780",
+      "title": "Edit Post",
+      "body": "Est blanditiis facil",
+      "userId": 0
+    },
+    {
+      "id": "f5f1",
+      "title": "testing",
+      "content": "first test",
+      "userId": 1
+    },
+    {
+      "id": "12ee",
+      "title": "another testing",
+      "content": "another test",
+      "userId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "5670",
+      "email": "user123@gmail.com",
+      "password": "$2a$10$TiVn.eH.6nU9N3mB/Y0T.eL3u6vyNHrQl2kv/aN9ExwaWf0JYuBNS"
+    },
+    {
+      "id": "343b",
+      "email": "user1234@gmail.com",
+      "password": "$2a$10$zsnEkgjO9VgGCd5vawmlS.KG5EmqGEVK5ghecv8zoQOhrpHdE6eny"
+    },
+    {
+      "id": "6249",
+      "email": "user100@gmail.com",
+      "password": "$2a$10$VG/aHdcvP1E2TwZ22nYJpOeEQet/XGaSdlTr3Hb3uF4msdSIPtJ22"
+    },
+    {
+      "id": "aeeb",
+      "email": "user200@gmail.com",
+      "password": "$2a$10$0sKVeOeyZj/Kz9QOk0csJ.AJhXsbUKHmkug1ks.MslIkbD32Y4q9q"
+    },
+    {
+      "id": "ed00",
+      "email": "bobo@gmail.com",
+      "password": "$2a$10$MwpZfMLwjmmzmFN8GCpv..uFVln6p7RTlIldJqWs.4NLvAQt/VuMa"
+    },
+    {
+      "id": "94df",
+      "email": "nnpp@gmail.com",
+      "password": "$2a$10$Jge0eS8T/m/k0Ezq9vhVhO9JyWPxbU1nIe0nMkd6vyXz96strHkt."
+    },
+    {
+      "id": "658b",
+      "email": "cedypeva@mailinator.com",
+      "password": "$2a$10$CZLvTSZmGMZmy/vo0YHzdu97SQPMcvqIVjPT9JOjqRqGaolwr4HJS"
+    },
+    {
+      "id": "e055",
+      "email": "nowaco@mailinator.com",
+      "password": "$2a$10$48MZNoZqsoTy1LSZ62VqQOcjl5Wch4deoMrHmcmG26xqDlcFpqksC"
+    },
+    {
+      "id": "2303",
+      "email": "popo@gmail.com",
+      "password": "$2a$10$outDxtBbh3TdvLd/Pfl3ouxxD6Gw0D/LpAaBgy17YCOR18d2jUyU6"
+    },
+    {
+      "id": "59aa",
+      "email": "fyhom@mailinator.com",
+      "password": "$2a$10$KSBEz93BRaPcQ62dbMJw3.CnxWE20P5fBv5fxj1ff/SVJilo2.3j."
+    },
+    {
+      "id": "dcbf",
+      "email": "vulariq@mailinator.com",
+      "password": "$2a$10$l5TfMU5x.y8m.zmjVEsgc.zQtyLIw/HlrLqxvGVuWxCJ.G5C2KqbC"
+    },
+    {
+      "id": "de6e",
+      "email": "mamixyluf@mailinator.com",
+      "password": "$2a$10$7Mi4lI.jEXKxwmydEL6Que0o4R5Kq0qVd3PxS1asqXGWhXhR6YW8e"
+    },
+    {
+      "id": "4aba",
+      "email": "popo55@gmail.com",
+      "password": "$2a$10$rAe5is94nxyFJo/ZhaMvX.VM87fibiGwxSjeRypQdvTQ4PdOZwgx2"
+    },
+    {
+      "id": "7274",
+      "username": "jirifolifo",
+      "email": "sytosuz@mailinator.com",
+      "password": "$2a$10$mcikB2c02SvhQsz35VdPQuH6c2gOHyrCrBSBhfnC3Oz34cTUZO8hy"
+    },
+    {
+      "id": "61a9",
+      "username": "hello",
+      "email": "hello@gmail.com",
+      "password": "$2a$10$vnJwlH6c4T8q2AWOWbzt5.qp46nsAd7qXvlAMGzdUEPvUu6yOfrVq"
+    },
+    {
+      "id": "286a",
+      "username": "lofeqyrugy",
+      "email": "radiz@mailinator.com",
+      "password": "$2a$10$beiqNd5hwsF3NQUHyutWA.dprtqqPePuWWLrejmqgRs/ApGfqEVHK"
+    },
+    {
+      "id": "a222",
+      "username": "tugaxyxafe",
+      "email": "segu@mailinator.com",
+      "password": "$2a$10$r5bWSZPjXoCK00Qkg9.f.u46z2c7ASQkpdORcixsmsWlYBbIMe5Aq"
+    },
+    {
+      "id": "a1fb",
+      "username": "wicot",
+      "email": "sapo@mailinator.com",
+      "password": "$2a$10$zCx8B8.FboJ9UWReAN5xqe6Es0VZuQvaqv1zYZ9sR.VM06tpjKH/G"
+    },
+    {
+      "id": "d366",
+      "username": "user",
+      "email": "user@user.com",
+      "password": "$2a$10$DTThIShyxwK2h8964CfB9OmkDtsEmugiQqkpG8QX3TBBHLYsw2fGK"
+    },
+    {
+      "id": "1778",
+      "username": "tiger",
+      "email": "tiger@gmail.com",
+      "password": "$2a$10$ILvuna09s9fxbwEPdz3D4uLRW6zm.YpP0QZxBbC/F.GwtwoR8B8VO"
+    },
+    {
+      "id": "9ac6",
+      "username": "user20",
+      "email": "user20@gmail.com",
+      "password": "$2a$10$huvSPCfLdwvxeONkjc66neKhjkfutdtHvltyQRDP.FrMA/gSyHcD6"
+    },
+    {
+      "id": "c224",
+      "username": "lesycusuto",
+      "email": "pymipihi@mailinator.com",
+      "password": "$2a$10$0idxurAZwf2B63zIEz3FvuXis7S0IDGGY2JEQVzBGFlusBlKT9MQu"
+    },
+    {
+      "id": "9ec7",
+      "username": "user",
+      "email": "user400@gmail.com",
+      "password": "$2a$10$i5VdpA2av/HaL/oTf9ZjWuJkIhsBatipksEa0IEq5DWYN9l8A2nMy"
+    },
+    {
+      "id": "1f96",
+      "username": "mgmg",
+      "email": "mgmg2025@gmail.com",
+      "password": "$2a$10$C1u6Ge/5EXEHJgjWO7BrjuSJCYPY/kHf8HvXmK4eygVX6uudILob."
+    },
+    {
+      "id": "0df6",
+      "username": "katutumov",
+      "email": "tigimicuv@mailinator.com",
+      "password": "$2a$10$PzQbA7SfKIpU6cSbjQlTruw2nNV6F6RVQvEsRLAaXGtdVJenHlszq"
+    },
+    {
+      "id": "202c",
+      "username": "rosella",
+      "email": "rosella@gmail.com",
+      "password": "$2b$10$FCKv5fztbwlUlOf8km8ZX.k9SmfOtzP88If8pDKLbexXtBhxYDMfi"
+    },
+    {
+      "id": "1a11",
+      "username": "tracy",
+      "email": "tracy123@gmail.com",
+      "password": "$2b$10$8Zrnm9MnxO3PVWCuq8eTo.u/J8sc9RpnHLLyZNhZBtwUMppRm1ibu"
+    },
+    {
+      "id": "0173",
+      "username": "lunar",
+      "email": "lunar123@gmail.com",
+      "password": "$2b$10$fUFuCBqtDQmYPO04.1RVqevYIQF1pO1NRHlXu95b/kYRm9exTPGJC"
+    }
+  ],
+  "customers": [
+    {
+      "id": "3a2f",
+      "email": "leon123@gmail.com",
+      "password": "$2b$10$Tt8qvjLj4VWS4jCeLQUvZeZxi6KddynqyGp5tRGkWWVQOVyrOf6.W"
+    },
+    {
+      "id": "a292",
+      "email": "sylus123@gmail.com",
+      "password": "$2b$10$e7Aj1IpA92o3PCuyBcWtT.hyd.nibpZ9eJGlJf.weop80iKhvCa.q"
+    },
+    {
+      "id": "8b0f",
+      "email": "rafayel123@gmail.com",
+      "password": "$2b$10$jpZn8q6WSG1gSnjUw9E/vOiIq/hw45JeRHXUwyIjK6iXQZU/BCvjG"
+    },
+    {
+      "id": "2542",
+      "email": "rosella123@gmail.com",
+      "password": "$2b$10$ugnUP78Er3Uv6GvolxmaFO9sSDkcu/RLOZ0wrgqzRvy/zoAv.ByK6"
+    },
+    {
+      "id": "9dfe",
+      "email": "lily123@gmail.com",
+      "password": "$2b$10$ivrKtBjQuN/.tb0L0nXLHufvy22BV8G60mZd4mMujO11QKsvQLk.K"
+    },
+    {
+      "id": "c855",
+      "name": "john",
+      "email": "john123@gmail.com",
+      "password": "$2b$10$GJnE5E1rHd/QzHuu3XS7Z.su7hQa6nZzVdLYZPCa3Q5uh4HDEbEKW"
+    }
+  ],
+  "categories": [
+    {
+      "id": "2",
+      "title": "Electronics",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "3",
+      "title": "Clothing",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "id": "4",
+      "title": "Books",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    },
+    {
+      "id": "24",
+      "title": "Cupcake",
+      "description": "wererty sdfghnmjkl sdfghjk."
+    },
+    {
+      "id": "22334",
+      "title": "Chicken",
+      "description": "asdddd wwwww eeeee."
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "title": "Product 2",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 19.99,
+      "stock": 50
+    },
+    {
+      "id": "3",
+      "title": "bag",
+      "description": "yellow one",
+      "price": 19.99,
+      "stock": "4"
+    },
+    {
+      "id": "640c",
+      "title": "Praesentium vitae vo",
+      "description": "At delectus est sed",
+      "price": 171,
+      "stock": "4",
+      "image": "Velit eveniet non n"
+    },
+    {
+      "title": "Tempora omnis labore",
+      "description": "Mollitia porro id a ",
+      "price": 132,
+      "stock": "47",
+      "image": "Voluptate consequatu",
+      "id": "8783"
+    },
+    {
+      "id": "6e4a",
+      "title": "Velit harum volupta",
+      "description": "Ut est alias consequ",
+      "price": 126,
+      "stock": "64",
+      "image": "Fugit deleniti beat"
+    },
+    {
+      "id": "b6cc",
+      "title": "Et ullam hic tenetur",
+      "description": "Occaecat voluptas re",
+      "price": 278,
+      "stock": "93",
+      "image": "Incididunt sed debit"
+    },
+    {
+      "title": "Magni sunt in aliqu",
+      "description": "Sit pariatur Qui cu",
+      "price": 410,
+      "stock": "6",
+      "image": "Laboriosam in volup",
+      "id": "ef27"
+    },
+    {
+      "id": "e850",
+      "title": "Molestias debitis nu",
+      "description": "Laborum Enim ea ut ",
+      "price": 173,
+      "stock": "43",
+      "image": null
+    },
+    {
+      "id": "95d8",
+      "title": "shoes",
+      "description": "pink one",
+      "price": 56,
+      "stock": "22"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "customerId": "c855",
+      "productId": "2",
+      "quantity": 2,
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "customerId": "3",
+      "productId": "3",
+      "quantity": 1,
+      "status": "shipped"
+    },
+    {
+      "id": "3",
+      "customerId": "c855",
+      "productId": "640c",
+      "quantity": 3,
+      "status": "delivered"
+    },
+    {
+      "id": "1b3b",
+      "customerId": "456",
+      "productId": "22",
+      "quantity": 4,
+      "status": "shipped"
+    }
+  ]
+}

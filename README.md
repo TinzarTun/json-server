@@ -1,30 +1,47 @@
 # 🧪 JSON Server + EchoAPI Test Project
 
-A minimal project to test RESTful API requests locally using json-server and remotely using EchoAPI. Perfect for frontend testing, prototyping, and learning purposes.
+A minimal and clean project to test RESTful API requests locally with **JSON Server** and remotely using **EchoAPI**. Ideal for frontend development, prototyping, and learning how APIs work.
 
 ---
 
 ## 📦 Features
 
-- Sample `db.json` file with test data
-- The file `echo-api-test-file-link.txt` includes a sample EchoAPI link for testing JSON Server API. You can open the file and use the link to simulate requests and inspect how your data is being sent.
+✨ Easy to run, no backend coding required  
+📁 Comes with a sample `db.json` file containing test data  
+🔗 Includes `echo-api-test-file-link.txt` for quick API testing on EchoAPI  
+🧪 Great for practicing GET, POST, PUT, DELETE methods  
+🚀 Perfect for frontend or Postman/API tool testing
 
 ---
 
 ## 🚀 Getting Started
 
-### Download or clone the repository:
-
-Open your terminal and run:
+### 📥 Clone the repository
 
 ```bash
-
 git clone https://github.com/TinzarTun/json-server.git
-
 cd json-server
+```
 
+### 📦 Install dependencies
+
+```bash
 npm install
+```
 
+### 🏃 Start the local JSON Server
+
+```bash
 npm run json-server
+```
 
+### 🖥️ Start the Server (Dev Mode)
+
+```bash
 npm run dev
+```
+
+### 🌐 Test with EchoAPI
+
+To simulate and inspect API requests remotely, open the `echo-api-test-file-link.txt` and paste the link into your browser or API tool.
+

@@ -7,7 +7,7 @@ A minimal project to test RESTful API requests locally using json-server and rem
 ## 📦 Features
 
 - Sample `db.json` file with test data
-- The file `echo-api-test-file-link.txt` includes a sample EchoAPI link for testing your JSON Server API. You can open the file and use the link to simulate requests and inspect how your data is being sent.
+- The file `echo-api-test-file-link.txt` includes a sample EchoAPI link for testing JSON Server API. You can open the file and use the link to simulate requests and inspect how your data is being sent.
 
 ---
 
